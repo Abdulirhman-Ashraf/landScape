@@ -7,7 +7,7 @@ const Nav = () => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary w-75 m-auto">
       <div className="container">
         <a className="navbar-brand" href="#">
-          <img className="logo" src={logo} />
+          <img className="logo" src={logo}  alt="logo"/>
         </a>
         <button
           className="navbar-toggler"
