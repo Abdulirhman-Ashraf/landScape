@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary w-75 m-auto">
       <div className="container">
-        <a className="navbar-brand">
+        <a className="navbar-brand" href="#contact">
           <img className="logo" src={logo}  alt="logo"/>
         </a>
         <button
