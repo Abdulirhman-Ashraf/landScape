@@ -12,7 +12,7 @@ const Header = (props) => {
           <Button name={props.btn2} id="about" display={props.display} />
         </div>
         <div className="col  col-lg-6 col-md-6 order-md-2 order-1 col-sm-11 mb-2 ">
-          <img className="img-fluid" src={props.img} alt="image"/>
+          <img className="img-fluid" src={props.img} />
         </div>
       </div>
     </div>
